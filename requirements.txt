@@ -1,4 +1,7 @@
 Flask
 pandas
 numpy
+ipykernel
+scikit-learn
+seaborn
 -e .
